@@ -1,0 +1,32 @@
+name: PLACEHOLDER
+description: PLACEHOLDER
+type: flying
+flying: true
+speed: 1
+rotateSpeed: 8
+drag: 0.4
+accel 1.2
+health: 500
+
+
+
+weapons: [
+    {
+        soundgun1: {
+            type: BasicBulletType
+            bulletDamage: 50
+            buildingDamageMultiplier: 1.5
+            drawSize: 12
+            knockback: 0.1
+            hitEffect: PLACEHOLDER
+            hittable: false
+            range: 100
+            shootSound: PLACEHOLDER
+            shootEffect: PLACEHOLDER
+            speed: 8
+            sprite: PLACEHOLDER
+            
+            
+        }
+    }
+]

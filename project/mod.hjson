@@ -1,0 +1,6 @@
+name: "Resonation"
+displayName: "Resonation"
+author: Gull&Bluemario8
+description: "Adds units that make cool sounds!"
+version: "0.0.1"
+minGameVersion 126.2
