@@ -1,2 +1,2 @@
 # Resonation
-A Mindustry mod with a focus on adding for units that use sound as weaponry 
+A Mindustry mod with a focus on adding units that use sound as weaponry 
